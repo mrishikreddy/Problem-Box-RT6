@@ -1,7 +1,7 @@
 # Problem Box
 
-[![Next.js](https://img.shields.io/badge/Next.js-14.2.3-black)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green)](https://nodejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-black)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-green)](https://nodejs.org/)
 
 ## Table of Contents
 
