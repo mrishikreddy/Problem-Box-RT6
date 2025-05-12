@@ -121,4 +121,5 @@ The following environment variables are required:
 
 > **Security Note**: Never commit `.env` files to version control. Use `.gitignore` to exclude them.
 
-Thank you
+
+Thank you for exploring Problem Box. Let's solve real-world challenges together.
