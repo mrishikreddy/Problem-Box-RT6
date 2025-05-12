@@ -119,7 +119,7 @@ The following environment variables are required:
 | `EMAIL_USER`  | Gmail address for sending emails         | `your-email@gmail.com`         |
 | `EMAIL_PASS`  | Gmail App Password for authentication    | `your-app-specific-password`   |
 
-> **Security Note**: Never commit `.env` files to version control. Use `.gitignore` to exclude them.
+ **Security Note**: Never commit `.env` files to version control. Use `.gitignore` to exclude them.
 
 
-Thank you for exploring Problem Box. Let's solve real-world challenges together.
+>Thank you for exploring Problem Box. Let's solve real-world challenges together.
