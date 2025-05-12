@@ -1,6 +1,5 @@
 # Problem Box
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.3-black)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green)](https://nodejs.org/)
 
@@ -13,10 +12,6 @@
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
@@ -37,14 +32,14 @@ The application is built using **Next.js** for the frontend and backend, with **
 ## Technologies Used
 
 - **Frontend**:
-  - Next.js 14.2.3 (React Framework)
+  - Next.js, React.js 
   - CSS Modules for styling
   - FontAwesome for icons
 - **Backend**:
   - Next.js API Routes
   - Nodemailer for email notifications
 - **Runtime**:
-  - Node.js 20.11.0
+  - Node.js 
 - **Dependencies**:
   - `@fortawesome/fontawesome`, `@fortawesome/react-fontawesome`, `@fortawesome/free-solid-svg-icons`
   - `nodemailer`
@@ -126,54 +121,4 @@ The following environment variables are required:
 
 > **Security Note**: Never commit `.env` files to version control. Use `.gitignore` to exclude them.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. **Fork the Repository**:
-   Click the "Fork" button on GitHub.
-
-2. **Create a Branch**:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Make Changes**:
-   Implement your feature or bug fix.
-
-4. **Commit Changes**:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-
-5. **Push to Your Fork**:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-6. **Create a Pull Request**:
-   Open a pull request on the original repository with a clear description of your changes.
-
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and ensure your code adheres to the project's coding standards.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions, feedback, or collaboration, reach out to Rishik Reddy:
-
-- **Email**: [malerishikreddy@gmail.com](mailto:malerishikreddy@gmail.com)
-- **LinkedIn**: [rishikreddym](https://www.linkedin.com/in/rishikreddym/)
-- **GitHub**: [MRishikReddy](https://github.com/MRishikReddy)
-- **Portfolio**: [rishik.tech](https://rishik.tech)
-
-## Acknowledgements
-
-- **Next.js**: For providing a robust framework for building the application.
-- **Nodemailer**: For enabling seamless email notifications.
-- **FontAwesome**: For providing high-quality icons.
-- **Vercel**: For hosting and deployment support (if deployed).
-
-Thank you for exploring **Problem Box**! Let's solve real-world challenges together.
+Thank you
