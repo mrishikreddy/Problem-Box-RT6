@@ -52,7 +52,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MRishikReddy/problem-box.git
+   git clone https://github.com/mrishikreddy/Problem-Box-RT6.git
    cd problem-box
    ```
 
